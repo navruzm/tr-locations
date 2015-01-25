@@ -1,0 +1,9 @@
+{
+	"name": "il-ilce-semt",
+	"description": "PTT websitesinden il, ilçe ve semt bilgilerini getirir.",
+	"license": "MIT",
+	"require": {
+		"fabpot/goutte": "~2.0"
+	},
+	"minimum-stability": "stable"
+}
